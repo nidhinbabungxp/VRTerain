@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: db4eea4678b244ed1a4f74198b3c4a0d
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 72511
+  packageName: HDRI Pack
+  packageVersion: 4.0
+  assetPath: Assets/UnityTechnologies/UnityHDRI/Gareoult/Materials/GareoultWhiteBalanced.mat
+  uploadId: 856342

@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 78b91c00fe5819d4ebdec3c9ad7a5fa0
+timeCreated: 1425440388
+licenseType: Store
+TextScriptImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 213198
+  packageName: Unity Terrain - HDRP Demo Scene
+  packageVersion: 1.0.3
+  assetPath: Assets/TerrainDemoScene_HDRP/TextMeshPro/Resources/LineBreaking Following
+    Characters.txt
+  uploadId: 727864

@@ -1,0 +1,137 @@
+# Blender 5.0.1 MTL File: 'Environment_01.blend'
+# www.blender.org
+
+newmtl Material.007
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 2
+Pr 0.500000
+Pm 0.000000
+Ps 0.000000
+Pc 0.000000
+Pcr 0.030000
+aniso 0.000000
+anisor 0.000000
+map_d Asphalt_Patch_tjxmsch_2K_Opacity.jpg
+
+newmtl Material.008
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 2
+Pm 0.000000
+Ps 0.000000
+Pc 0.000000
+Pcr 0.030000
+aniso 0.000000
+anisor 0.000000
+map_Kd Tileable_Road_Dust_shcl0jn_2K_BaseColor.jpg
+map_Pr Tileable_Road_Dust_shcl0jn_2K_Roughness.jpg
+map_d Tileable_Road_Dust_shcl0jn_2K_Opacity.jpg
+
+newmtl Material.009
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 2
+Pr 0.500000
+Pm 0.000000
+Ps 0.000000
+Pc 0.000000
+Pcr 0.030000
+aniso 0.000000
+anisor 0.000000
+map_Kd Rusty_Metal_Utility_Cover_uhbnbh1n_2K_BaseColor.jpg
+map_d Rusty_Metal_Utility_Cover_uhbnbh1n_2K_Opacity.jpg
+
+newmtl Material.010
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 2
+Pr 0.500000
+Pm 0.000000
+Ps 0.000000
+Pc 0.000000
+Pcr 0.030000
+aniso 0.000000
+anisor 0.000000
+map_Kd Metal_Manhole_Cover_vflnaik_2K_BaseColor.jpg
+map_d Metal_Manhole_Cover_vflnaik_2K_Opacity.jpg
+
+newmtl Material.011
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 2
+Pr 0.500000
+Pm 0.000000
+Ps 0.000000
+Pc 0.000000
+Pcr 0.030000
+aniso 0.000000
+anisor 0.000000
+map_Kd Leakage_tculfbnc_2K_BaseColor.jpg
+map_Ks Leakage_tculfbnc_2K_Specular.jpg
+map_d Leakage_tculfbnc_2K_Opacity.jpg
+
+newmtl Material.012
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 2
+Pr 0.500000
+Pm 0.000000
+Ps 0.000000
+Pc 0.000000
+Pcr 0.030000
+aniso 0.000000
+anisor 0.000000
+map_Kd Leakage_skkvdgfc_2K_BaseColor.jpg
+map_Ks Leakage_skkvdgfc_2K_Specular.jpg
+map_d Leakage_skkvdgfc_2K_Opacity.jpg
+
+newmtl Material.013
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 2
+Pr 0.500000
+Pm 0.000000
+Ps 0.000000
+Pc 0.000000
+Pcr 0.030000
+aniso 0.000000
+anisor 0.000000
+map_d Concrete_Crack_sezrfcg_2K_Opacity.jpg
+
+newmtl Material.015
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 2
+Pr 0.500000
+Pm 0.000000
+Ps 0.000000
+Pc 0.000000
+Pcr 0.030000
+aniso 0.000000
+anisor 0.000000
+map_d Asphalt_Crack_umegfd0cw_2K_Opacity.jpg
+
+newmtl Material.016
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 2
+Pr 0.500000
+Pm 0.000000
+Ps 0.000000
+Pc 0.000000
+Pcr 0.030000
+aniso 0.000000
+anisor 0.000000
+map_Kd Mud_Stain_wbhtahpv_2K_BaseColor.jpg
+map_Ks Mud_Stain_wbhtahpv_2K_Specular.jpg
+map_d Mud_Stain_wbhtahpv_2K_Opacity.jpg

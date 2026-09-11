@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 5cb3d412579e6544b8718b834394cdf5
+timeCreated: 1473946745
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 72511
+  packageName: HDRI Pack
+  packageVersion: 4.0
+  assetPath: Assets/UnityTechnologies/UnityHDRI/Trinitatis Church/TrinitatisChurchWhiteBalanced.mat
+  uploadId: 856342

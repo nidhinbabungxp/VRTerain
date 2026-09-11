@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: d18f1c2992dd8d14e908f2cbb9d57ac7
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 213198
+  packageName: Unity Terrain - HDRP Demo Scene
+  packageVersion: 1.0.3
+  assetPath: Assets/TerrainDemoScene_HDRP/Prefabs/Rocks/Rock_D.prefab
+  uploadId: 727864

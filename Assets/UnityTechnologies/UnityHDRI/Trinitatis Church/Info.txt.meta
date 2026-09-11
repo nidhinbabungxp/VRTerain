@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: fe63a262d0dfe4e49ada7e9a62f85195
+timeCreated: 1475009851
+licenseType: Store
+TextScriptImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 72511
+  packageName: HDRI Pack
+  packageVersion: 4.0
+  assetPath: Assets/UnityTechnologies/UnityHDRI/Trinitatis Church/Info.txt
+  uploadId: 856342
