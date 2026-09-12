@@ -1,0 +1,28 @@
+{
+  "source": "CarModelVR_Final.glb",
+  "sourceSha256": "a076dd569dc18defdf3edabd632c86a6a1496c28c857048dfd3dc150240bd129",
+  "offsetMetres": 0.0007,
+  "mirrors": [
+    {
+      "name": "LeftMirror_Display",
+      "sourceName": "Mirror_L",
+      "width": 0.17517187312728394,
+      "height": 0.12804556037030596,
+      "nodeIndex": 9
+    },
+    {
+      "name": "RightMirror_Display",
+      "sourceName": "Mirror_R",
+      "width": 0.17517187312728394,
+      "height": 0.12804556037030596,
+      "nodeIndex": 14
+    },
+    {
+      "name": "CentreMirror_Display",
+      "sourceName": "Center Mirror",
+      "width": 0.24549096676096954,
+      "height": 0.06124328824202666,
+      "nodeIndex": 1
+    }
+  ]
+}

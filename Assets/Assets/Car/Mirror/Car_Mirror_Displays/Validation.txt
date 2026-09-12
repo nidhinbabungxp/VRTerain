@@ -1,0 +1,12 @@
+GEOMETRY VALIDATION
+
+Car_Mirrors_ExactFit.glb: LeftMirror_Display: 48 vertices; 46 triangles; full UV area; correct source placement; valid normals and indices.
+Car_Mirrors_ExactFit.glb: RightMirror_Display: 48 vertices; 46 triangles; full UV area; correct source placement; valid normals and indices.
+Car_Mirrors_ExactFit.glb: CentreMirror_Display: 28 vertices; 26 triangles; full UV area; correct source placement; valid normals and indices.
+Car_Mirrors_Rectangular_Quads.glb: LeftMirror_Display: 4 vertices; 2 triangles; full UV area; correct source placement; valid normals and indices.
+Car_Mirrors_Rectangular_Quads.glb: RightMirror_Display: 4 vertices; 2 triangles; full UV area; correct source placement; valid normals and indices.
+Car_Mirrors_Rectangular_Quads.glb: CentreMirror_Display: 4 vertices; 2 triangles; full UV area; correct source placement; valid normals and indices.
+
+Exact-fit surfaces keep every original glass triangle and sit 0.7 mm in front of the glass.
+Side-mirror source UVs had V=0 throughout. New UVs cover [0,1] in both directions.
+Unity Editor is unavailable in the build environment; the installer has not been executed in Unity.
